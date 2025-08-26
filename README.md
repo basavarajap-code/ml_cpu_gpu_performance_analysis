@@ -21,7 +21,7 @@ This project analyzes the evolution and performance trends of CPUs and GPUs usin
 ML_MODEL_CPU_GPU_PERF_ANALYSIS.ipynb //Run in Google Colab
 
 ## Report
-Find the full project report in the repository (PDF included).
+project_report_cpu_gpu_performance_analysis.pdf //Find the full project report in the repository
 
 ## Insights
 - Evidence of Moore's Law and breakdown of Dennard scaling.
