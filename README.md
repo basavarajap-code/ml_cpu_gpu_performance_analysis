@@ -17,6 +17,9 @@ This project analyzes the evolution and performance trends of CPUs and GPUs usin
 - Python, scikit-learn, pandas, matplotlib, seaborn
 - Google Colab
 
+## Code
+ML_MODEL_CPU_GPU_PERF_ANALYSIS.ipynb //Run in Google Colab
+
 ## Report
 Find the full project report in the repository (PDF included).
 
